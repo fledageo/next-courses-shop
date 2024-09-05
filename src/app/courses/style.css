@@ -1,0 +1,5 @@
+.corses_container{
+    width: 100%;
+    background-color: rgb(64, 64, 68);
+    display: flex;
+}

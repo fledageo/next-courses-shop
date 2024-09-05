@@ -1,0 +1,15 @@
+.contanier{
+    display: flex;
+    justify-content: center;
+}
+.course_info_wrapper{
+    background-color: rgb(65, 65, 65);
+    display: flex;
+    flex-direction: column;
+    padding: 50px 30px;
+    width: 300px;
+}
+.info-txt{
+    margin: 5px;
+    color: aliceblue;
+}

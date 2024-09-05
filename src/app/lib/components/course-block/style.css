@@ -1,0 +1,24 @@
+.course_block{
+    width: 200px;
+    background-color: rgb(133, 133, 133);
+    display: flex;
+    justify-content: center;
+    padding: 30px 0;
+    margin: 10px;
+}
+.info_wrapper{
+    display: flex;
+    flex-direction: column;
+}
+
+.info_img_wrapper{
+    width: 100px;
+    height: 150px;
+}
+.links{
+    display: flex;
+    justify-content: space-between;
+}
+.info_img{
+    max-height: 150px;
+}
